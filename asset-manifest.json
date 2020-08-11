@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/RealState/static/js/main.d56c34b3.chunk.js",
-    "main.js.map": "/RealState/static/js/main.d56c34b3.chunk.js.map",
+    "main.js": "/RealState/static/js/main.9c203e0b.chunk.js",
+    "main.js.map": "/RealState/static/js/main.9c203e0b.chunk.js.map",
     "runtime-main.js": "/RealState/static/js/runtime-main.edaf2c5f.js",
     "runtime-main.js.map": "/RealState/static/js/runtime-main.edaf2c5f.js.map",
-    "static/js/2.54250a21.chunk.js": "/RealState/static/js/2.54250a21.chunk.js",
-    "static/js/2.54250a21.chunk.js.map": "/RealState/static/js/2.54250a21.chunk.js.map",
+    "static/js/2.41af580f.chunk.js": "/RealState/static/js/2.41af580f.chunk.js",
+    "static/js/2.41af580f.chunk.js.map": "/RealState/static/js/2.41af580f.chunk.js.map",
     "index.html": "/RealState/index.html",
-    "precache-manifest.793c8995fbccd8be0512221f4df2416c.js": "/RealState/precache-manifest.793c8995fbccd8be0512221f4df2416c.js",
+    "precache-manifest.1635f9e5ed8efdd38b3fa59c6729657e.js": "/RealState/precache-manifest.1635f9e5ed8efdd38b3fa59c6729657e.js",
     "service-worker.js": "/RealState/service-worker.js",
-    "static/js/2.54250a21.chunk.js.LICENSE.txt": "/RealState/static/js/2.54250a21.chunk.js.LICENSE.txt"
+    "static/js/2.41af580f.chunk.js.LICENSE.txt": "/RealState/static/js/2.41af580f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.edaf2c5f.js",
-    "static/js/2.54250a21.chunk.js",
-    "static/js/main.d56c34b3.chunk.js"
+    "static/js/2.41af580f.chunk.js",
+    "static/js/main.9c203e0b.chunk.js"
   ]
 }
